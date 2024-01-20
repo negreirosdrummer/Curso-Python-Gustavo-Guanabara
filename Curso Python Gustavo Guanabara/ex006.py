@@ -1,3 +1,4 @@
+# DESAFIO 6
 # CRIE UM ALGORITMO QUE LEIA UM NÚMERO E MOSTRE O SEU DOBRO, TRIPLO E RAIZ QUADRADA
 
 num = int(input('Digite um número inteiro: '))

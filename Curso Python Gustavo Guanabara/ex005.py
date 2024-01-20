@@ -1,3 +1,4 @@
+# DESAFIO 5
 # FAÇA UM PROGRAMA QUE LEIA UM NÚMERO INTEIRO E MOSTRE NA TELA O SEU SUCESSOR E SEU ANTECESSOR
 
 num = int(input('Digite um número inteiro: '))
