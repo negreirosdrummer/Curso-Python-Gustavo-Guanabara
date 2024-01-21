@@ -8,4 +8,4 @@ else:
     print(f'O número {num} é ímpar')
 
 # usando condição simplificada:
-print(f'O número {num} é par!' if num % 2 == 0 else f'O número {num} é ímpar')
+# print(f'O número {num} é par!' if num % 2 == 0 else f'O número {num} é ímpar')

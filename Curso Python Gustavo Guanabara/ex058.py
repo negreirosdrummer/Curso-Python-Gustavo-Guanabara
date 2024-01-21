@@ -23,7 +23,8 @@ while palpite != numero:
 print('\nPARABÉNS! Você acertou!')
 print(f'Foram necessárias {cont} tentativas.')
 
-# RESOLUÇÃO GUANABARA
+# RESOLUÇÃO GUANABARA (a única diferença é a condição do laço while)
+"""
 print('-=-' * 17)
 print('Vou pensar em um número de 0 a 10. Tente adivinhar!')
 print('-=-' * 17)
@@ -43,3 +44,4 @@ while not acertou:
 
 print('\nPARABÉNS! Você acertou!')
 print(f'Foram necessárias {cont} tentativas.')
+"""

@@ -14,7 +14,7 @@ if r1 < r2 + r3 and r2 < r1 + r3 and r3 < r1 + r2:
         print('EQUILÁTERO!')
     elif r1 == r2 != r3 or r1 == r3 != r2 or r2 == r3 != r1:
         print('ISÓSCELES!')
-    # é preciso escrever r3 != r1 pois r1 pode ser != de r2 e r2 pode ser != de r3, mas ainda assim o r1 pode ser = a r3
+    # é preciso escrever r3 != r1 pois r1 pode ser != de r2 e r2 pode ser != de r3, mas ainda assim o r1 pode ser = r3
     elif r1 != r2 != r3 != r1:
         print('ESCALENO!')
 

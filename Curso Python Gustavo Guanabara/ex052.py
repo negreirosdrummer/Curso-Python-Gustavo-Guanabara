@@ -2,20 +2,20 @@
 # FAÇA UM PROGRAMA QUE LEIA UM NÚMERO INTEIRO E DIGA SE ELE É OU NÃO UM NÚMERO PRIMO
 
 # MINHA RESOLUÇÃO:
-# primo = True
-# num = int(input('Digite um número inteiro qualquer: '))
-# if num <= 1:
-#     primo = False
-# for c in range(2, int(num ** 0.5) + 1):
-#     if num % c == 0:
-#         primo = False
-# if primo:
-#     print(f'{num} É um número PRIMO')
-# elif not primo:
-#     print(f'{num} NÃO É um número PRIMO')
+"""primo = True
+num = int(input('Digite um número inteiro qualquer: '))
+if num <= 1:
+    primo = False
+for c in range(2, int(num ** 0.5) + 1):
+    if num % c == 0:
+        primo = False
+if primo:
+    print(f'{num} É um número PRIMO')
+elif not primo:
+    print(f'{num} NÃO É um número PRIMO')
+"""
 
-
-# RESOLUÇÃO GUANABARA (consegui reproduzir vendo o funcionamento do programa)
+# RESOLUÇÃO GUANABARA (consegui fazer minha resolução vendo o funcionamento do programa)
 num = int(input('Digite um número inteiro qualquer: '))
 cont = 0
 
