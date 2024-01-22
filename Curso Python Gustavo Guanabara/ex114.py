@@ -3,7 +3,8 @@
 # nota: o site pudim.com.br estava fora do ar, por isso decidi usar o site www.google.com
 
 # MINHA RESOLUÇÃO
-"""import urllib.request
+"""
+import urllib.request
 
 
 def verifica_conexao(site):
@@ -21,7 +22,8 @@ site = "https://www.google.com"
 if verifica_conexao(site):
     print(f'\033[32mConsegui acessar o site Google com sucesso!')
 else:
-    print(f'\033[31mO site Google não está acessível no momento...')"""
+    print(f'\033[31mO site Google não está acessível no momento...')
+"""
 
 
 # RESOLUÇÃO GUANABARA

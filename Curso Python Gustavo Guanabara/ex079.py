@@ -3,7 +3,6 @@
 # CASO O NÚMERO JÁ EXISTA LÁ DENTRO, ELE NÃO SERÁ ADICIONADO.
 # NO FINAL, SERÃO EXIBIDOS TODOS OS VALORES ÚNICOS DIGITADOS, EM ORDEM CRESCENTE
 
-# MINHA RESOLUÇÃO
 lista = [1, 2, 6, 9, 20]
 while True:
     num = int(input('Digite um número: '))

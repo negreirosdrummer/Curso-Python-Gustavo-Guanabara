@@ -21,6 +21,7 @@ else:
 
 
 # RESOLUÇÃO GUANABARA
+"""
 expr = input('Digite uma expressão: ')
 pilha = []
 for simbolo in expr:
@@ -36,3 +37,4 @@ if len(pilha) == 0:
     print('Expresão válida!')
 else:
     print('Expressão inválida!')
+"""

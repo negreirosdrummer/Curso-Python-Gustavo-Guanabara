@@ -3,6 +3,7 @@
 # NO FINAL DA EXECUÇÃO, MOSTRE A MÉDIA ENTRE TODOS OS VALORES E QUAL FOI O MAIOR E O MENOR VALORES LIDOS.
 # O PROGRAMA DEVE PERGUNTAR AO USUÁRIO SE ELE QUER OU NÃO CONTINUAR A DIGITAR VALORES
 
+# MINHA RESOLUÇÃO
 continuar = ' '
 soma = cont = maior = menor = 0
 while continuar != 'N':
@@ -26,6 +27,7 @@ print(f'O menor valor digitado foi {menor}')
 
 
 # RESOLUÇÃO GUANABARA
+"""
 continuar = 'S'
 soma = cont = maior = menor = 0
 while continuar in 'Ss':
@@ -45,3 +47,4 @@ print(f'\nForam digitados {cont} valores')
 print(f'A média entre eles é {media}')
 print(f'O maior valor digitado foi {maior}')
 print(f'O menor valor digitado foi {menor}')
+"""

@@ -5,6 +5,7 @@
 
 # MINHA RESOLUÇÃO
 
+"""
 def ficha(nome='<desconhecido>', gols=0):
     if gols > 1:
         print(f'O jogador {nome} fez {gols} gols no campeonato')
@@ -24,6 +25,7 @@ if nome == '':
     ficha(gols=gols)
 else:
     ficha(nome, gols)
+"""
 
 
 # RESOLUÇÃO GUANABARA

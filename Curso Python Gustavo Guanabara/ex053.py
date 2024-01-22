@@ -8,7 +8,8 @@
 # ANOTARAM A DATA DA MARATONA
 
 # MINHA RESOLUÇÃO:
-"""frase = input('Digite uma frase qualquer: ').replace(' ', '').upper()
+"""
+frase = input('Digite uma frase qualquer: ').replace(' ', '').upper()
 palindromo = ''
 for c in range(len(frase) - 1, -1, -1):
     palindromo += frase[c]

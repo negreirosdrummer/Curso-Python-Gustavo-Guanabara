@@ -35,7 +35,8 @@ print(f'O maior valor da segunda linha é {maior_2lin}')
 
 
 # RESOLUÇÃO GUANABARA
-'''matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
+"""
+matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 soma_pares = soma3col = maior2lin = 0
 for i in range(0, 3):
     for j in range(0, 3):
@@ -57,4 +58,5 @@ for j in range(0, 3):
         maior2lin = matriz[1][j]
     elif matriz[1][j] > maior2lin:
         maior2lin = matriz[1][j]
-print(f'O maior valor da segunda linha é {maior2lin}')'''
+print(f'O maior valor da segunda linha é {maior2lin}')
+"""

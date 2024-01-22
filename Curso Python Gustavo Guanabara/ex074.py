@@ -3,7 +3,7 @@
 # DEPOIS DISSO, MOSTRE A LISTAGEM DE NÚMEROS GERADOS E TAMBÉM INDIQUE O MENOR E O MAIOR VALOR QUE ESTÃO NA TUPLA
 
 # MINHA RESOLUÇÃO
-'''from random import randint
+"""from random import randint
 lista = []
 for c in range(5):
     num = randint(0, 10)
@@ -27,7 +27,9 @@ for n in range(len(tupla)):
             menor = tupla[n]
 
 print(f'O maior valor é {maior}')
-print(f'O menor valor é {menor}')'''
+print(f'O menor valor é {menor}')
+"""
+
 
 # RESOLUÇÃO GUANABARA
 from random import randint

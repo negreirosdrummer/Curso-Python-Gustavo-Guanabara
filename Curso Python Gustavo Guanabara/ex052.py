@@ -2,7 +2,8 @@
 # FAÇA UM PROGRAMA QUE LEIA UM NÚMERO INTEIRO E DIGA SE ELE É OU NÃO UM NÚMERO PRIMO
 
 # MINHA RESOLUÇÃO:
-"""primo = True
+"""
+primo = True
 num = int(input('Digite um número inteiro qualquer: '))
 if num <= 1:
     primo = False

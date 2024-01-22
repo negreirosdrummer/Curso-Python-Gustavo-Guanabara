@@ -7,26 +7,6 @@
 # EM QUE POSIÇÃO ESTÁ O TIME DO FLAMENGO
 
 # MINHA RESOLUÇÃO
-'''times = ('Palmeiras', 'Grêmio', 'Atlético-MG', 'Flamengo', 'Botafogo', 'Bragantino', 'Fluminense', 'Athletico-PR',
-         'Internacional', 'Fortaleza', 'São Paulo', 'Cuiabá', 'Corinthians', 'Cruzeiro', 'Vasco', 'Bahia', 'Santos',
-         'Goiás', 'Coritiba', 'América-MG')
-
-print('-=' * 20)
-print('Lista de times do Brasileirão (por ordem de classificação):')
-print(times)
-print('-=' * 20)
-print('Os 5 primeiros colocados são: ', end='')
-print(times[0:5])
-print('-=' * 20)
-print(f'Os 4 últimos são: ', end='')
-print(times[-4:])
-print('-=' * 20)
-print('Times em ordem alfabética: ', end='')
-print(sorted(times))
-print('-=' * 20)
-print(f'O FLAMENGO está na {times.index("Flamengo") + 1}ª posição')'''
-
-# MINHA RESOLUÇÃO FODA
 times = ('Palmeiras', 'Grêmio', 'Atlético-MG', 'Flamengo', 'Botafogo', 'Bragantino', 'Fluminense', 'Athletico-PR',
          'Internacional', 'Fortaleza', 'São Paulo', 'Cuiabá', 'Corinthians', 'Cruzeiro', 'Vasco', 'Bahia', 'Santos',
          'Goiás', 'Coritiba', 'América-MG')
@@ -73,7 +53,7 @@ while True:
     elif op == 5:
         print()
         print('-=' * 20)
-        print(f'O FLAMENGO ESTÁ {times.index("Flamengo") + 1}ª POSIÇÃO')
+        print(f'O FLAMENGO ESTÁ NA {times.index("Flamengo") + 1}ª POSIÇÃO')
         print('-=' * 20)
     elif op == 6:
         break
@@ -84,3 +64,26 @@ while True:
         print('-=' * 20)
 
 print('Você saiu do programa')
+
+
+# RESOLUÇÃO GUANABARA
+"""
+times = ('Palmeiras', 'Grêmio', 'Atlético-MG', 'Flamengo', 'Botafogo', 'Bragantino', 'Fluminense', 'Athletico-PR',
+         'Internacional', 'Fortaleza', 'São Paulo', 'Cuiabá', 'Corinthians', 'Cruzeiro', 'Vasco', 'Bahia', 'Santos',
+         'Goiás', 'Coritiba', 'América-MG')
+
+print('-=' * 20)
+print('Lista de times do Brasileirão (por ordem de classificação):')
+print(times)
+print('-=' * 20)
+print('Os 5 primeiros colocados são: ', end='')
+print(times[0:5])
+print('-=' * 20)
+print(f'Os 4 últimos são: ', end='')
+print(times[-4:])
+print('-=' * 20)
+print('Times em ordem alfabética: ', end='')
+print(sorted(times))
+print('-=' * 20)
+print(f'O FLAMENGO está na {times.index("Flamengo") + 1}ª posição')
+"""

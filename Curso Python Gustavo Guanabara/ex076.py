@@ -3,7 +3,8 @@
 # NO FINAL, MOSTRE UMA LISTAGEM DE PREÇOS, ORGANIZANDO OS DADOS EM FORMA TABULAR
 
 # MINHA RESOLUÇÃO
-'''listagem = ('Lápis', 1.75,
+"""
+listagem = ('Lápis', 1.75,
             'Borracha', 2,
             'Caderno', 15.9,
             'Estojo', 25,
@@ -17,7 +18,8 @@ print(f'{"LISTAGEM DE PREÇOS":^40}')
 print('-' * 40)
 for c in range(0, len(listagem), 2):
     print(f'{listagem[c]:.<30}R$ {listagem[c+1]:>6.2f}')
-print('-' * 40)'''
+print('-' * 40)
+"""
 
 
 # RESOLUÇÃO GUANABARA

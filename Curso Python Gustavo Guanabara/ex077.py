@@ -2,7 +2,6 @@
 # CRIE UM PROGRAMA QUE TENHA UMA TUPLA COM VÁRIAS PALAVRAS (NÃO USAR ACENTOS).
 # DEPOIS DISSO, VOCÊ DEVE MOSTRAR, PARA CADA PALAVRA, QUAIS SÃO AS SUAS VOGAIS
 
-# MINHA RESOLUÇÃO
 tupla = ('aprender', 'programar', 'linguagem', 'python', 'curso', 'gratis', 'estudar',
          'praticar', 'trabalhar', 'mercado', 'programador', 'futuro')
 

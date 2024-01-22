@@ -3,26 +3,27 @@
 # UMA PESSOA, RETORNANDO UM VALOR LITERAL INDICANDO SE UMA PESSOA TEM VOTO NEGADO, OPCIONAL OU OBRIGATÓRIO NAS ELEIÇÕES
 
 # MINHA RESOLUÇÃO
-
-# from datetime import date
+"""
+from datetime import date
 
 
 # sobre escopo de IMPORTAÇÃO: importar módulos dentro de funções economiza memória, pois o
 # módulo só será usado na execução da função
-# def voto(ano_nasc):
-#     idade = ano_atual - ano_nasc
-#     if idade < 16:
-#         return f'Com {idade} anos: VOTO NEGADO'
-#     elif 16 <= idade < 18 or idade > 65:
-#         return f'Com {idade} anos: VOTO OPCIONAL'
-#     else:
-#         return f'Com {idade} anos: VOTO OBRIGATÓRIO'
+def voto(ano_nasc):
+    idade = ano_atual - ano_nasc
+    if idade < 16:
+        return f'Com {idade} anos: VOTO NEGADO'
+    elif 16 <= idade < 18 or idade > 65:
+        return f'Com {idade} anos: VOTO OPCIONAL'
+    else:
+        return f'Com {idade} anos: VOTO OBRIGATÓRIO'
 
 
-# ano_atual = date.today().year
-# print('-' * 30)
-# ano_nasc = int(input('Em que ano você nasceu? '))
-# print(voto(ano_nasc))
+ano_atual = date.today().year
+print('-' * 30)
+ano_nasc = int(input('Em que ano você nasceu? '))
+print(voto(ano_nasc))
+"""
 
 
 # RESOLUÇÃO GUANABARA

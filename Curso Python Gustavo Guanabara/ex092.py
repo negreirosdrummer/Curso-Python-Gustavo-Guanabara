@@ -30,7 +30,8 @@ if pessoa['ctps'] != 0:
 
 
 # RESOLUÇÃO GUANABARA
-'''from datetime import date
+"""
+from datetime import date
 
 dados = dict()
 dados['Nome'] = input('Nome: ')
@@ -43,4 +44,5 @@ if dados['CTPS'] != 0:
     dados['Aposentadoria'] = (dados['Contratação'] + 35) - dados['Nascimento']
 print('-=' * 20)
 for k, v in dados.items():
-    print(f'{k}: {v}')'''
+    print(f'{k}: {v}')
+"""

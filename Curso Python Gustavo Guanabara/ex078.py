@@ -59,7 +59,8 @@ elif len(pos_menores) > 1:
 
 
 # RESOLUÇÃO GUANABARA
-'''lista = []
+"""
+lista = []
 maior = 0
 menor = 0
 for c in range(0, 5):
@@ -83,4 +84,4 @@ for i, v in enumerate(lista):
     if v == menor:
         print(f"{i}... ", end='')
 print()
-'''
+"""

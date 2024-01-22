@@ -30,7 +30,8 @@ for n in range(len(tupla)):
 
 
 # RESOLUÇÃO GUANABARA
-'''num = (int(input('Digite um número: ')),
+"""
+num = (int(input('Digite um número: ')),
        int(input('Digite outro número: ')),
        int(input('Digite mais um número: ')),
        int(input('Digite o último número: ')))
@@ -43,4 +44,5 @@ else:
 print('Os números pares foram: ', end='')
 for n in num:
     if n % 2 == 0:
-        print(n, end=' ')'''
+        print(n, end=' ')
+"""

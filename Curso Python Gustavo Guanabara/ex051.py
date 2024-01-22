@@ -3,7 +3,8 @@
 # NO FINAL, MOSTRE OS 10 PRIMEIROS TERMOS DESSA PROGRESSÃO
 
 # MINHA RESOLUÇÃO:
-"""print('==' * 15)
+"""
+print('==' * 15)
 print(f'{"10 TERMOS DE UMA P.A.":^30}')
 print('==' * 15)
 inicio = int(input('Digite o primeiro termo da P.A.: '))

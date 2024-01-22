@@ -4,7 +4,8 @@
 # PERMITA QUE O USUÁRIO POSSA MOSTRAR AS NOTAS DE CADA ALUNO INDIVIDUALMENTE
 
 # MINHA RESOLUÇÃO
-'''alunos = []
+"""
+alunos = []
 aluno = []
 notas = []
 while True:
@@ -53,7 +54,8 @@ while True:
         print('-' * 48)
 
 print('\nFinalizando...')
-print('<<< Volte sempre! >>>')'''
+print('<<< Volte sempre! >>>')
+"""
 
 
 # RESOLUÇÃO GUANABARA

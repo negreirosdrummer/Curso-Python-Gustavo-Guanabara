@@ -33,7 +33,8 @@ print(f'Foi um total de {jogador["Total"]} gols em {qtd_partidas} partidas')
 
 
 # MINHA RESOLUÇÃO ANTIGA
-'''jogador = {}
+"""
+jogador = {}
 jogador["Nome"] = str(input("Nome: "))
 jogador["Partidas"] = int(input("Partidas: "))
 lista_gols = []
@@ -60,11 +61,13 @@ print(f"O jogador {jogador['Nome']} jogou {jogador['Partidas']} partidas.")
 
 for k, v in enumerate(jogador["Gols Marcados"]):
     print(f"\t=> Na partida {k+1}, fez {v} gols.")
-print(f"Foi um total de {jogador['Total de Gols']} gols.")'''
+print(f"Foi um total de {jogador['Total de Gols']} gols.")
+"""
 
 
 # RESOLUÇÃO GUANABARA
-'''jogador = dict()
+"""
+jogador = dict()
 partidas = list()
 jogador['nome'] = str(input('Nome do jogador: '))
 tot = int(input(f'Quantas partidas {jogador["nome"]} jogou? '))
@@ -81,4 +84,5 @@ print('-=' * 30)
 print(f'O jogador {jogador["nome"]} jogou {len(jogador["gols"])} partidas')
 for i, v in enumerate(jogador["gols"]):
     print(f'    => Na partida {i} fez {v} gols')
-print(f'Foi um total de {jogador["total"]} gols')'''
+print(f'Foi um total de {jogador["total"]} gols')
+"""

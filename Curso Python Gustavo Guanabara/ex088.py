@@ -28,7 +28,8 @@ print('-=-=-= < BOA SORTE! > =-=-=-')
 
 
 # MINHA RESOLUÇÃO ANTIGA
-'''from random import randint
+"""
+from random import randint
 from time import sleep
 
 lista = []
@@ -53,10 +54,12 @@ for i in range(len(lista)):
     print(f'Jogo {i + 1}: {lista[i]}')
     sleep(0.5)
 
-print('-=' * 4, ' < BOA SORTE! > ', '=-'*4)'''
+print('-=' * 4, ' < BOA SORTE! > ', '=-'*4)
+"""
+
 
 # RESOLUÇÃO GUANABARA
-'''from random import randint
+"""from random import randint
 from time import sleep
 
 lista = []
@@ -84,4 +87,5 @@ for i, l in enumerate(jogos):
     print(f'Jogo {i + 1}: {l}')
     sleep(0.5)
 
-print('-=' * 3, ' << BOA SORTE! >> ', '=-' * 3)'''
+print('-=' * 3, ' << BOA SORTE! >> ', '=-' * 3)
+"""

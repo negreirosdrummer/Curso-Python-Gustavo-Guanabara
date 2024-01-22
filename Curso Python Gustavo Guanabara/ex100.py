@@ -33,7 +33,8 @@ soma_par(sorteia)
 
 
 # RESOLUÇÃO GUANABARA
-'''from random import randint
+"""
+from random import randint
 from time import sleep
 
 
@@ -57,4 +58,5 @@ def soma_par(lista):
 
 numeros = list()
 sorteia(numeros)
-soma_par(numeros)'''
+soma_par(numeros)
+"""

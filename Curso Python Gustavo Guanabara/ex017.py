@@ -3,7 +3,8 @@
 # MOSTRE O COMPRIMENTO DA HIPOTENUSA
 
 # MINHA REOSLUÇÃO
-"""cat_oposto = float(input('Digite a medida do cateto oposto: '))
+"""
+cat_oposto = float(input('Digite a medida do cateto oposto: '))
 cat_adjacente = float(input('Digite a medida do cateto adjacente: '))
 hipotenusa = (cat_oposto ** 2 + cat_adjacente ** 2) ** (1/2)
 print(f'A hipotenusa do triângulo retângulo com catetos de {cat_oposto}cm e {cat_adjacente}cm é de {hipotenusa:.2f}cm')

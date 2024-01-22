@@ -6,7 +6,8 @@
 # UMA CONTAGEM PERSONALIZADA
 
 # MINHA RESOLUÇÃO
-'''from time import sleep
+"""
+from time import sleep
 
 
 def contador(inicio, fim, passo):
@@ -37,7 +38,8 @@ print('Agora é a sua vez de personalizar a contagem!')
 inicio = int(input('Início: '))
 fim = int(input('Final: '))
 passo = int(input('Passo: '))
-contador(inicio, fim, passo)'''
+contador(inicio, fim, passo)
+"""
 
 
 # RESOLUÇÃO GUANABARA

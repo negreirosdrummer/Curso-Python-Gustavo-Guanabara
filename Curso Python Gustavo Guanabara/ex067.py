@@ -2,7 +2,6 @@
 # FAÇA UM PROGRAMA QUE MOSTRE A TABUADA DE VÁRIOS NÚMEROS, UM DE CADA VEZ, PARA CADA VALOR DIGITADO PELO USUÁRIO.
 # O PROGRAMA SERÁ INTERROMPIDO QUANDO O NÚMERO SOLICITADO FOR NEGATIVO
 
-# MINHA RESOLUÇÃO
 while True:
     cont = 1
     num = int(input('Quer ver a tabuada de qual valor? (Digite um valor negativo para sair) '))

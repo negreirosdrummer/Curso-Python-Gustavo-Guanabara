@@ -2,13 +2,13 @@
 # REFAÇA O DESAFIO 51, LENDO O PRIMEIRO TERMO E A RAZÃO DE UMA PA, MOSTRANDO OS
 # 10 PRIMEIROS TERMOS DA PROGRESSÃO USANDO A ESTRUTURA WHILE
 
+# MINHA RESOLUÇÃO:
 print('==' * 15)
 print(f'{"10 TERMOS DE UMA P.A.":^30}')
 print('==' * 15)
 inicio = int(input('Digite o primeiro termo da P.A.: '))
 razao = int(input('Digite a razão dessa P.A.: '))
 
-# MINHA RESOLUÇÃO:
 soma = inicio
 cont = 0
 while cont < 10:
@@ -22,6 +22,13 @@ print('\033[1;32mACABOU!\033[m')
 
 
 # RESOLUÇÃO GUANABARA:
+"""
+print('==' * 15)
+print(f'{"10 TERMOS DE UMA P.A.":^30}')
+print('==' * 15)
+inicio = int(input('Digite o primeiro termo da P.A.: '))
+razao = int(input('Digite a razão dessa P.A.: '))
+
 print('==' * 15)
 print(f'{"10 TERMOS DE UMA P.A.":^30}')
 print('==' * 15)
@@ -34,3 +41,4 @@ while cont <= 10:
     termo += razao
     cont += 1
 print('\033[1;32mACABOU!\033[m')
+"""

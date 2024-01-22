@@ -20,7 +20,8 @@ print(f'Situação: {aluno["situação"]}')
 
 
 # RESOLUÇÃO GUANABARA
-'''aluno = dict()
+"""
+aluno = dict()
 aluno['Nome'] = input('Nome: ')
 aluno['Média'] = float(input(f'Média de {aluno["Nome"]}: '))
 if aluno['Média'] >= 7:
@@ -32,4 +33,5 @@ else:
 
 print('-=' * 15)
 for k, v in aluno.items():
-    print(f'{k}: {v}')'''
+    print(f'{k}: {v}')
+"""

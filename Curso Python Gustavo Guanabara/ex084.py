@@ -68,7 +68,8 @@ elif cont_l > 1:
 
 
 # RESOLUÇÃO GUANABARA
-'''temp = []
+"""
+temp = []
 princ = []
 mai = men = 0
 
@@ -99,4 +100,5 @@ print()
 print(f'O menor peso foi de {men} Kg. Peso de', end='')
 for p in princ:
     if p[1] == men:
-        print(f' [{p[0]}]', end='')'''
+        print(f' [{p[0]}]', end='')
+"""

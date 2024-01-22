@@ -3,7 +3,8 @@
 # UMA LISTA, JÁ NA POSIÇÃO CORRETA DE INSERÇÃO (SEM USAR O SORT()). NO FINAL, MOSTRE A LISTA ORDENADA NA TELA
 
 # MINHA RESOLUÇÃO (NÃO CONSEGUI TERMINAR)
-'''lista = []
+"""
+lista = []
 maior = 0
 menor = 0
 for n in range(5):
@@ -21,10 +22,11 @@ for n in range(5):
             lista.insert(lista.index(menor), num)
             print(f'Adicionado à posição {lista.index(menor)} da lista')
             menor = num
-print(lista)'''
-
+print(lista)
+"""
 
 # 2ª TENTATIVA (DEPOIS DE VER A CORREÇÃO DO EXERCÍCIO)
+"""
 lista = []
 for n in range(5):
     num = int(input('Digite um valor: '))
@@ -40,6 +42,8 @@ for n in range(5):
                 break
             pos += 1
 print(lista)
+"""
+
 
 # RESOLUÇÃO GUANABARA
 lista = []

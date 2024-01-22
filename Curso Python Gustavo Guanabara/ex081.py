@@ -38,7 +38,8 @@ else:
 
 
 # MINHA RESOLUÇÃO SIMPLIFICADA
-'''lista = []
+"""
+lista = []
 
 while True:
     num = int(input("Digite um valor: "))
@@ -62,9 +63,11 @@ elif lista.count(5) > 1:
     print(f"O valor 5 faz parte da lista nas posições {pos5}!")
 elif 5 not in lista:
     print("O valor 5 não foi encontrado na lista!")
+"""
 
 
 # RESOLUÇÃO GUANABARA
+"""
 valores = []
 while True:
     valores.append(int(input('Digite um valor: ')))
@@ -78,4 +81,5 @@ print(f'Os valores em ordem crescente são {valores}')
 if 5 in valores:
     print('O valor 5 faz parte da lista!')
 else:
-    print('O valor 5 não foi encontrado na lista')'''
+    print('O valor 5 não foi encontrado na lista')
+"""

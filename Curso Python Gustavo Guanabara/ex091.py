@@ -25,7 +25,8 @@ for i, v in enumerate(dict_ordenado):
 
 
 # RESOLUÇÃO GUANABARA
-'''from random import randint
+"""
+from random import randint
 from time import sleep
 from operator import itemgetter
 
@@ -43,4 +44,5 @@ ranking = sorted(jogo.items(), key=itemgetter(1), reverse=True)
 print("-=" * 30)
 print("   == RANKING DOS JOGADORES ==")
 for i, v in enumerate(ranking):
-    print(f"    {i+1}º Lugar: {v[0]} com {v[1]}.")'''
+    print(f"    {i+1}º Lugar: {v[0]} com {v[1]}.")
+"""

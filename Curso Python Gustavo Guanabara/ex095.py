@@ -3,7 +3,8 @@
 # SISTEMA DE VISUALIZAÇÃO DE DETALHES DO APROVEITAMENTO DE CADA JOGADOR
 
 # MINHA RESOLUÇÃO
-'''jogadores = []
+"""
+jogadores = []
 jogador = {}
 total_gols = 0
 
@@ -52,7 +53,8 @@ while True:
             else:
                 print(f'\t=> Na partida {i + 1} fez {jogadores[id]["Gols"][i]} gols')
     print('-=' * 25)
-print('<< VOLTE SEMPRE >>')'''
+print('<< VOLTE SEMPRE >>')
+"""
 
 
 # RESOLUÇÃO GUANABARA

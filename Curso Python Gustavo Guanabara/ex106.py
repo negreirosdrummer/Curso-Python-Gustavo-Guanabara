@@ -2,7 +2,8 @@
 #
 
 # MINHA RESOLUÇÃO
-"""from time import sleep
+"""
+from time import sleep
 
 
 def func(lib):
@@ -31,7 +32,8 @@ while True:
 print()
 print(f"\033[41m{'~'}" * 13)
 print('  ATÉ LOGO!')
-print('~' * 13)"""
+print('~' * 13)
+"""
 
 
 # RESOLUÇÃO GUANABARA

@@ -5,7 +5,6 @@
 # QUANTOS HOMENS FORAM CADASTRADOS
 # QUANTAS MULHERES TEM MENOS DE 20 ANOS
 
-# MINHA RESOLUÇÃO
 maiores = total_h = total_m20 = 0
 while True:
     print('--' * 15)

@@ -65,7 +65,8 @@ print('<<<< ENCERRADO >>>>')
 
 
 # MINHA RESOLUÇÃO ANTIGA
-'''lista_pessoas = []
+"""
+lista_pessoas = []
 pessoa = {}
 soma_idades = 0
 while True:
@@ -113,11 +114,13 @@ for i in range(len(acima_da_media)):
         print(f"{k}", end=' = ')
         print(f"{v}", end='; ')
     print()
-print("<< ENCERRADO >>")'''
+print("<< ENCERRADO >>")
+"""
 
 
 # RESOLUÇÃO GUANABARA
-'''galera = list()
+"""
+galera = list()
 pessoa = dict()
 soma = media = 0
 while True:
@@ -165,4 +168,5 @@ for i in range(len(acima_da_media)):
         print(f"{k}", end=' = ')
         print(f"{v}", end='; ')
     print()
-print("<< ENCERRADO >>")'''
+print("<< ENCERRADO >>")
+"""

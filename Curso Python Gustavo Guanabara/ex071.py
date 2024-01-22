@@ -5,7 +5,8 @@
 # OBS: CONSIDERE QUE O CAIXA POSSUI CÉDULAS DE R$ 50, R$ 20, R$ 10 E R$ 1
 
 # MINHA RESOLUÇÃO
-'''print('==' * 25)
+"""
+print('==' * 25)
 print(f'{"BANCO NEGREIROS":^50}')
 print('==' * 25)
 
@@ -45,7 +46,9 @@ if resto >= 1:
 
 print()
 print('==' * 25)
-print(f'Volte sempre ao BANCO NEGREIROS! Tenha um bom dia!')'''
+print(f'Volte sempre ao BANCO NEGREIROS! Tenha um bom dia!')
+"""
+
 
 # RESOLUÇÃO GUANABARA
 print('==' * 25)

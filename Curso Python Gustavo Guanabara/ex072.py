@@ -2,7 +2,6 @@
 # CRIE UM PROGRAMA QUE TENHA UMA DUPLA TOTALMENTE PREENCHIDA COM UMA CONTAGEM POR EXTENSO, DE ZERO ATÉ VINTE.
 # SEU PROGRAMA DEVERÁ LER UM NÚMERO PELO TECLADO (DE 0 A 20) E MOSTRÁ-LO POR EXTENSO
 
-# MINHA RESOLUÇÃO
 extenso = ('zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez',
            'onze', 'doze', 'treze', 'quatorze', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove', 'vinte')
 while True:

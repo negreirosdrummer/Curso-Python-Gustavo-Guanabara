@@ -32,18 +32,20 @@ print('FIM')
 
 
 # RESOLUÇÃO GUANABARA - não funciona se quiser mostrar somente 1 termo (sempre mostra 0 e 1 por padrão)
-# print('-=' * 11)
-# print('SEQUÊNCIA DE FIBONACCI')
-# print('-=' * 11)
-# num = int(input('Quantos termos deseja mostrar? '))
-# t1 = 0
-# t2 = 1
-# print(f'{t1} -> {t2}', end='')
-# cont = 3  # inicia no 3, pois os 2 primeiros termos são sempre 0 e 1
-# while cont <= num:
-#     t3 = t1 + t2
-#     print(f' -> {t3}', end='')
-#     t1 = t2
-#     t2 = t3
-#     cont += 1
-# print(' -> FIM')
+"""
+print('-=' * 11)
+print('SEQUÊNCIA DE FIBONACCI')
+print('-=' * 11)
+num = int(input('Quantos termos deseja mostrar? '))
+t1 = 0
+t2 = 1
+print(f'{t1} -> {t2}', end='')
+cont = 3  # inicia no 3, pois os 2 primeiros termos são sempre 0 e 1
+while cont <= num:
+    t3 = t1 + t2
+    print(f' -> {t3}', end='')
+    t1 = t2
+    t2 = t3
+    cont += 1
+print(' -> FIM')
+"""

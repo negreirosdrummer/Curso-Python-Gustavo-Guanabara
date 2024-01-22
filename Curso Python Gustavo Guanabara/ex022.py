@@ -5,7 +5,8 @@
 # – QUANTAS LETRAS TEM O PRIMEIRO NOME
 
 # MINHA RESOLUÇÃO
-"""nome = input('Digite o seu nome completo: ').strip()
+"""
+nome = input('Digite o seu nome completo: ').strip()
 print(f'O seu nome com letras maiúsculas é: {nome.upper()}')
 print(f'O seu nome com letras minúsculas é: {nome.lower()}')
 separado = nome.split()

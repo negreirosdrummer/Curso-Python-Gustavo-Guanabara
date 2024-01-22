@@ -8,6 +8,7 @@ print('SANTO' == separado[0].upper())
 
 
 # RESOLUÇÃO GUANABARA
-"""cidade = input('Digite o nome de uma cidade: ').strip()
+"""
+cidade = input('Digite o nome de uma cidade: ').strip()
 print(cidade[:5].upper() == 'SANTO')
 """

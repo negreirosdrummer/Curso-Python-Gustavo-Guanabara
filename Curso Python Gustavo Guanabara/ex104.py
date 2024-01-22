@@ -4,14 +4,16 @@
 
 # MINHA RESOLUÇÃO (NÃO CONSEGUI FINALIZAR)
 
-# def leiaint(n):
-#     if n is int:
-#         return f'Você acabou de digitar o número {n}'
-#     else:
-#         return '\033[31mERRO! Digite um número inteiro válido!'
+"""
+def leiaint(n):
+    if n is int:
+        return f'Você acabou de digitar o número {n}'
+    else:
+        return '\033[31mERRO! Digite um número inteiro válido!'
 
 
-# n = leiaint('Digite um número: ')
+n = leiaint('Digite um número: ')
+"""
 
 
 # RESOLUÇÃO GUANABARA

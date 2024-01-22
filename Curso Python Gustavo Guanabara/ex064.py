@@ -13,7 +13,9 @@ while num != 999:
 print(f'\nForam digitados {cont} valores.')
 print(f'A soma dos valores resulta em {soma}')
 
+
 # RESOLUÇÃO GUANABARA
+"""
 soma = cont = 0
 # a diferença está nessa linha (está antes do laço while para que o valor inserido não seja contabilizado na contagem)
 num = int(input('Digite um número inteiro (999 para sair): '))
@@ -23,3 +25,4 @@ while num != 999:
     num = int(input('Digite um número inteiro (999 para sair): '))
 print(f'\nForam digitados {cont} valores.')
 print(f'A soma dos valores resulta em {soma}')
+"""

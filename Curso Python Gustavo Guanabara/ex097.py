@@ -20,7 +20,8 @@ escreva(txt)
 
 
 # RESOLUÇÃO GUANABARA
-'''def escreva(txt):
+"""
+def escreva(txt):
     tamanho = len(txt) + 4
     print('~' * tamanho)
     print(f'  {txt}')
@@ -28,4 +29,5 @@ escreva(txt)
 
 
 txt = input('Digite uma frase qualquer: ')
-escreva(txt)'''
+escreva(txt)
+"""

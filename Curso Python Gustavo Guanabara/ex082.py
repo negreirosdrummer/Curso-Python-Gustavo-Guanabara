@@ -29,7 +29,8 @@ print(f'A lista de números ímpares é {lista_impares}')
 
 
 # RESOLUÇÃO GUANABARA
-'''num = []
+"""
+num = []
 pares = []
 impares = []
 
@@ -49,4 +50,5 @@ for i, v in enumerate(num):
 
 print(f"A lista completa é {num}")
 print(f"A lista de pares é {pares}")
-print(f"A lista de ímpares é {impares}")'''
+print(f"A lista de ímpares é {impares}")
+"""

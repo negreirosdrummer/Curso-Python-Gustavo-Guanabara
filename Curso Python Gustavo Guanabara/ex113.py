@@ -3,7 +3,8 @@
 # UM NÚMERO DE TIPO INVÁLIDO. APROVEITE E CRIE TAMBÉM UMA FUNÇÃO LEIAFLOAT() COM A MESMA FUNCIONALIDADE
 
 # MINHA RESOLUÇÃO
-"""def leiaint():
+"""
+def leiaint():
     ok = False
     valor = 0
     while True:
@@ -45,7 +46,8 @@ def leiafloat():
 
 inteiro = leiaint()
 real = leiafloat()
-print(f'O valor inteiro digitado foi {inteiro} e o real foi {real}')"""
+print(f'O valor inteiro digitado foi {inteiro} e o real foi {real}')
+"""
 
 
 # RESOLUÇÃO GUANABARA
